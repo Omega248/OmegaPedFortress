@@ -2,7 +2,7 @@ fx_version 'adamant'
 game 'gta5'
 
 
-description 'qb-gunsmission'
+description 'omegapedfortess'
 version '1.0'
 author 'https://github.com/OmegaGrape'
 
