@@ -4,5 +4,5 @@ This is a simple standalone script for FiveM, It spawns a small army around an a
 To confige the peds health pools, accuracy, armour, ammo and Combat movement just edit the config.lua 
 
 #Preview 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dZvjnGvQ0nI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+[![Watch the video](https://https://www.youtube.com/watch?v=dZvjnGvQ0nI/default.jpg)](https://https://www.youtube.com/watch?v=dZvjnGvQ0nI)
