@@ -5,4 +5,4 @@ To confige the peds health pools, accuracy, armour, ammo and Combat movement jus
 
 #Preview 
 
-[![Watch the video](https://https://www.youtube.com/watch?v=dZvjnGvQ0nI/default.jpg)](https://https://www.youtube.com/watch?v=dZvjnGvQ0nI)
+[![Preview](https://img.youtube.com/vi/dZvjnGvQ0nI/0.jpg)](https://www.youtube.com/watch?v=dZvjnGvQ0nI)
